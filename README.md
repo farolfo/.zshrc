@@ -1,7 +1,7 @@
 .zshrc
 ======
 
-My presonal modification to the [robbyrussel](https://github.com/robbyrussell/oh-my-zsh) theme for the zsh terminal.
+My personal modification to the [robbyrussel](https://github.com/robbyrussell/oh-my-zsh) theme for the zsh terminal.
 
 An example 
 
