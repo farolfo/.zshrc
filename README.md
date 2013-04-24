@@ -18,11 +18,11 @@ I'm using the zsh terminal, customized with [oh-my-zsh](https://github.com/robby
 
 I'm also using the [Solarized](http://ethanschoonover.com/solarized) theme, wich I've saved a copy in this repo, with font <code>Consolata</code> 15pt.
 
-Besides, I'm using my personal modification to the robbyrussel theme, given in the <code>farolfo.zsh-theme</code>, just copy it into your <code>~/.oh-my-zsh/themes</code> directory, and modify your <code>.zshrc</code> file so it will use this theme, by modifing the line:
+Besides, I'm using my personal modification to the robbyrussel theme, given in the <code>farolfo.zsh-theme</code> file, just copy it into your <code>~/.oh-my-zsh/themes</code> directory, and modify your <code>.zshrc</code> file so it will use this theme, by modifing the line:
 
 	ZSH_THEME="farolfo"
 
-Or you my copy the <code>.zshrc</code> file that I provied to your home directory.
+Or you may copy the <code>.zshrc</code> file that I provied to your home directory.
 
 ###Further reading
 
