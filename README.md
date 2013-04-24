@@ -3,7 +3,7 @@
 
 My presonal modification to the robbyrussel theme for the zsh terminal.
 
-![ScreenShot](https://raw.github.com/i-saumitra/Voice-controlled-MP3-Player/master/screen-samples/simple-sample.jpg)
+![ScreenShot](https://raw.github.com/farolfo/.zshrc/blob/master/screen-samples/simple-sample.jpg)
 
 ![ScreenShot](https://raw.github.com/i-saumitra/Voice-controlled-MP3-Player/master/screen-samples/git-sample.jpg)
 
